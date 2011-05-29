@@ -379,3 +379,27 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2011-05-29 12:44:00.392
 !MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.017
+!MESSAGE 20 files modified in module ams-ejbs
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.056
+!MESSAGE 7 files modified in module ams-entities
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.075
+!MESSAGE 3 files modified in module ams-utils
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.138
+!MESSAGE 12 files modified in module ams-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.159
+!MESSAGE 5 files modified in module ams-hgsm
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2011-05-29 12:56:09.181
+!MESSAGE 4 files modified in module ams-security-authz
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2011-05-29 12:56:09.211
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2011-05-29 12:56:38.516
+!MESSAGE Server Startup Succeeded

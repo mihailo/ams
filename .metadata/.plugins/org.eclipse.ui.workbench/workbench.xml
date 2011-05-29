@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="121" version="2.0">
+<workbench progressCount="36" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="183" y="112">
 <fastViewData fastViewLocation="1024"/>
@@ -14,9 +14,9 @@
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="107" y="22"/>
 <coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
-<coolItem id="org.jboss.tools.jst.jsp.toolbars.sampleToolbar" itemType="typeToolBarContribution" x="222" y="22"/>
+<coolItem id="org.jboss.tools.jst.jsp.toolbars.sampleToolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.jboss.tools.jst.web.ui.server.actionSet" itemType="typeToolBarContribution" x="153" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
@@ -128,9 +128,9 @@
 <editor id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" name="hgsm.properties" partName="hgsm.properties" path="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" title="hgsm.properties" tooltip="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" workbook="DefaultEditorWorkbook">
 <input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GliteCertRolesLoginModule.java" partName="GliteCertRolesLoginModule.java" path="D:/Users/mihailo/workspceAMS/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" title="GliteCertRolesLoginModule.java" tooltip="ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GliteCertRolesLoginModule.java" partName="GliteCertRolesLoginModule.java" path="D:/Users/mihailo/workspceAMS/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" title="GliteCertRolesLoginModule.java" tooltip="ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="667" selectionTopPixel="2805"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="667" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Target.java" partName="Target.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java" title="Target.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java"/>
@@ -149,7 +149,7 @@
 <editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="ams-jboss-beans.xml" partName="ams-jboss-beans.xml" path="D:/Users/mihailo/workspceAMS/ams/EarContent/META-INF/ams-jboss-beans.xml" title="ams-jboss-beans.xml" tooltip="ams/EarContent/META-INF/ams-jboss-beans.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams/EarContent/META-INF/ams-jboss-beans.xml"/>
 </editor>
-<editor activePart="true" focus="true" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" partName="web.xml" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<editor id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" partName="web.xml" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/WEB-INF/web.xml"/>
 </editor>
 <editor id="org.eclipse.ui.DefaultTextEditor" name="MANIFEST.MF" partName="MANIFEST.MF" path="D:/Users/mihailo/workspceAMS/ams-entities/ejbModule/META-INF/MANIFEST.MF" title="MANIFEST.MF" tooltip="ams-entities/ejbModule/META-INF/MANIFEST.MF" workbook="DefaultEditorWorkbook">
@@ -290,7 +290,7 @@
 </view>
 <view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
 </views>
-<perspectives activePart="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" activePerspective="org.jboss.ide.eclipse.as.ui.ASPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.jboss.ide.eclipse.as.ui.ASPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -361,32 +361,23 @@
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="left">
-<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="left">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@6132b73b" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6132b73b" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.21330138" ratioLeft="356" ratioRight="1313" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.6308204" ratioLeft="569" ratioRight="333" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<info folder="true" part="bottom" ratio="0.6308204" ratioLeft="569" ratioRight="333" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
@@ -394,8 +385,7 @@
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
@@ -403,13 +393,10 @@
 </folder>
 </info>
 <info part="org.jboss.tools.flow.jpdl4.details" ratio="0.7493333" ratioLeft="562" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss"/>
-<info folder="true" part="right" ratio="0.49896908" ratioLeft="242" ratioRight="243" relationship="4" relative="org.jboss.tools.flow.jpdl4.details">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="right" ratio="0.49896908" ratioLeft="242" ratioRight="243" relationship="4" relative="org.jboss.tools.flow.jpdl4.details">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -494,7 +481,7 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="418" ratioRight="1254" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.1791492" ratioLeft="299" ratioRight="1370" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.650776" ratioLeft="587" ratioRight="315" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
@@ -602,62 +589,43 @@
 <view id="org.eclipse.gef.ui.palette_view"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="leftTop">
-<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="leftTop">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
 <page content="org.jboss.tools.jst.web.ui.navigator.WebProjectsView" label="Web Projects"/>
 <page content="org.jboss.tools.seam.ui.views.SeamComponentsNavigator" label="Seam Components"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="leftTop">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="leftTop">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.19976076" ratioLeft="334" ratioRight="1338" relationship="2" relative="leftTop"/>
-<info folder="true" part="bottom" ratio="0.7790055" ratioLeft="705" ratioRight="200" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<info folder="true" part="bottom" ratio="0.7790055" ratioLeft="705" ratioRight="200" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.79970104" ratioLeft="1070" ratioRight="268" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.gef.ui.palette_view" appearance="2" expanded="2">
-<page content="org.eclipse.gef.ui.palette_view" label="Palette"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<info folder="true" part="right" ratio="0.79970104" ratioLeft="1070" ratioRight="268" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.gef.ui.palette_view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.gef.ui.palette_view" label="Palette"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="rightBottom" ratio="0.6397163" ratioLeft="451" ratioRight="254" relationship="4" relative="right">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<info folder="true" part="rightBottom" ratio="0.6397163" ratioLeft="451" ratioRight="254" relationship="4" relative="right">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="leftBottom" ratio="0.63977903" ratioLeft="579" ratioRight="326" relationship="4" relative="leftTop">
-<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<info folder="true" part="leftBottom" ratio="0.63977903" ratioLeft="579" ratioRight="326" relationship="4" relative="leftTop">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
@@ -669,8 +637,6 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jpt.ui.internal.editors.PersistenceEditor" path="/ams-entities/ejbModule/META-INF/persistence.xml"/>
-<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/listAlerts.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/ams/EarContent/META-INF/ams-jboss-beans.xml"/>
 <editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/web.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/ams-entities/ejbModule/META-INF/MANIFEST.MF"/>
 <editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/web.xml"/>
@@ -704,143 +670,137 @@
 <editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/error.jsp"/>
 <editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/messages.jsp"/>
 <editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/subscribe.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jpt.ui.internal.editors.PersistenceEditor" path="/ams-entities/ejbModule/META-INF/persistence.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java"/>
 </editors>
-<item historyLabel="listAlerts.jsp" index="1">
+<item historyLabel="web.xml" index="1"/>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="MANIFEST.MF" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ams-jboss-beans.xml" index="2"/>
+<item historyLabel="persistence.xml" index="0"/>
 <item historyLabel="web.xml" index="3"/>
 <item historyLabel="persistence.xml" index="0"/>
-<item historyLabel="MANIFEST.MF" index="4">
+<item historyLabel="UserInfo.java" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="persistence.xml" index="0"/>
-<item historyLabel="web.xml" index="5"/>
-<item historyLabel="persistence.xml" index="0"/>
-<item historyLabel="UserInfo.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Target.java" index="7">
+<item historyLabel="Target.java" index="5">
 <position info="not_deleted" x="272" y="0"/>
 </item>
-<item historyLabel="Subscription.java" index="8">
+<item historyLabel="Subscription.java" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Message.java" index="9">
+<item historyLabel="Message.java" index="7">
 <position info="not_deleted" x="371" y="0"/>
 </item>
-<item historyLabel="Category.java" index="10">
+<item historyLabel="Category.java" index="8">
 <position info="not_deleted" x="81" y="17"/>
 </item>
-<item historyLabel="Alert.java" index="11">
+<item historyLabel="Alert.java" index="9">
 <position info="not_deleted" x="624" y="6"/>
 </item>
 <item historyLabel="persistence.xml" index="0"/>
-<item historyLabel="AMSManagement.java" index="12">
+<item historyLabel="AMSManagement.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AMSManagementBean.java" index="13">
+<item historyLabel="AMSManagementBean.java" index="11">
 <position info="not_deleted" x="515" y="0"/>
 </item>
-<item historyLabel="ConfigUpdater.java" index="14">
+<item historyLabel="ConfigUpdater.java" index="12">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ConfigUpdaterBean.java" index="15">
+<item historyLabel="ConfigUpdaterBean.java" index="13">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Updater.java" index="16">
+<item historyLabel="Updater.java" index="14">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Global.java" index="17">
+<item historyLabel="Global.java" index="15">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="hgsm.properties" index="18"/>
-<item historyLabel="XMLReader.java" index="19">
+<item historyLabel="hgsm.properties" index="16"/>
+<item historyLabel="XMLReader.java" index="17">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="HGSMUpdater.java" index="20">
+<item historyLabel="HGSMUpdater.java" index="18">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="ams-jboss-beans.xml" index="21"/>
-<item historyLabel="AMSManagementBean.java" index="13">
+<item historyLabel="ams-jboss-beans.xml" index="19"/>
+<item historyLabel="AMSManagementBean.java" index="11">
 <position info="not_deleted" x="515" y="0"/>
 </item>
-<item historyLabel="AMSManagement.java" index="12">
+<item historyLabel="AMSManagement.java" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="Alert.java" index="11">
+<item historyLabel="Alert.java" index="9">
 <position info="not_deleted" x="624" y="6"/>
 </item>
-<item historyLabel="Category.java" index="10">
+<item historyLabel="Category.java" index="8">
 <position info="not_deleted" x="81" y="17"/>
 </item>
-<item historyLabel="Message.java" index="9">
+<item historyLabel="Message.java" index="7">
 <position info="not_deleted" x="371" y="0"/>
 </item>
-<item historyLabel="Category.java" index="10">
+<item historyLabel="Category.java" index="8">
 <position info="not_deleted" x="81" y="17"/>
 </item>
 <item historyLabel="persistence.xml" index="0"/>
-<item historyLabel="web.xml" index="22">
+<item historyLabel="web.xml" index="20">
 <position info="not_deleted" x="2348" y="15"/>
 </item>
-<item historyLabel="web.xml" index="23">
+<item historyLabel="web.xml" index="21">
 <position info="not_deleted" x="2378" y="8"/>
 </item>
-<item historyLabel="faces-config.xml" index="24"/>
-<item historyLabel="jboss-web.xml" index="25"/>
-<item historyLabel="Global.java" index="26">
+<item historyLabel="faces-config.xml" index="22"/>
+<item historyLabel="jboss-web.xml" index="23"/>
+<item historyLabel="Global.java" index="24">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MessageStatus.java" index="27">
+<item historyLabel="MessageStatus.java" index="25">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MessageType.java" index="28">
+<item historyLabel="MessageType.java" index="26">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="MANIFEST.MF" index="29">
+<item historyLabel="MANIFEST.MF" index="27">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AMSManagement.java" index="30">
+<item historyLabel="AMSManagement.java" index="28">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AMSManagementBean.java" index="31">
+<item historyLabel="AMSManagementBean.java" index="29">
 <position info="not_deleted" x="1057" y="0"/>
 </item>
-<item historyLabel="web.xml" index="22"/>
-<item historyLabel="main.jsp" index="32">
+<item historyLabel="web.xml" index="20"/>
+<item historyLabel="main.jsp" index="30">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="error.jsp" index="33">
+<item historyLabel="error.jsp" index="31">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="messages.jsp" index="34">
+<item historyLabel="messages.jsp" index="32">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="subscribe.jsp" index="35">
+<item historyLabel="subscribe.jsp" index="33">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="subscribe.jsp" index="35">
+<item historyLabel="subscribe.jsp" index="33">
 <position info="not_deleted" x="3425" y="0"/>
 </item>
-<item historyLabel="main.jsp" index="32">
+<item historyLabel="main.jsp" index="30">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item active="true" historyLabel="web.xml" index="22"/>
+<item historyLabel="web.xml" index="20"/>
+<item historyLabel="persistence.xml" index="34"/>
+<item active="true" historyLabel="GliteCertRolesLoginModule.java" index="35">
+<position info="not_deleted" x="667" y="0"/>
+</item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-<trimItem IMemento.internal.id="bottom"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@57746e0"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>

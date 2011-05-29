@@ -4926,3 +4926,737 @@ Caused by: java.lang.ClassNotFoundException: org.jboss.tools.jst.web.kb.validati
 	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
 	at java.lang.ClassLoader.loadClass(Unknown Source)
 	... 37 more
+
+!ENTRY org.eclipse.php.core 4 4 2011-05-29 12:55:37.484
+!MESSAGE ams does not exist
+!STACK 1
+org.eclipse.dltk.core.ModelException: ams does not exist
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:258)
+	at org.eclipse.dltk.internal.core.ModelManager.getPerProjectInfoCheckExistence(ModelManager.java:805)
+	at org.eclipse.dltk.internal.core.ScriptProject.getPerProjectInfo(ScriptProject.java:708)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:304)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:275)
+	at org.eclipse.dltk.internal.core.ScriptProject.buildStructure(ScriptProject.java:672)
+	at org.eclipse.dltk.internal.core.Openable.generateInfos(Openable.java:188)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:184)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:171)
+	at org.eclipse.dltk.internal.core.ModelElement.getChildren(ModelElement.java:356)
+	at org.eclipse.dltk.internal.core.ModelElement.getChildren(ModelElement.java:351)
+	at org.eclipse.dltk.internal.core.ScriptProject.getProjectFragments(ScriptProject.java:1483)
+	at org.eclipse.php.internal.core.PHPCorePlugin$ReindexOperationListener.resourceChanged(PHPCorePlugin.java:162)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastBuildEvent(Workspace.java:311)
+	at org.eclipse.core.internal.resources.Workspace.aboutToBuild(Workspace.java:250)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:341)
+	at org.eclipse.ui.internal.ide.dialogs.CleanDialog.doClean(CleanDialog.java:306)
+	at org.eclipse.ui.internal.ide.dialogs.CleanDialog$1.runInWorkspace(CleanDialog.java:154)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2011-05-29 12:55:37.485
+!MESSAGE ams does not exist
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:39.992
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:39.992
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:39.993
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:40.542
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:40.915
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:55:42.218
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2011-05-29 12:57:02.210 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_25
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.776
+!MESSAGE NLS unused message: add_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.777
+!MESSAGE NLS unused message: bp_conditional in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.777
+!MESSAGE NLS unused message: bp_conditonal in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.778
+!MESSAGE NLS unused message: bp_entry_and_exit in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.778
+!MESSAGE NLS unused message: bp_entry_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.778
+!MESSAGE NLS unused message: bp_exit_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.779
+!MESSAGE NLS unused message: bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.779
+!MESSAGE NLS unused message: bp_line_number in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.780
+!MESSAGE NLS unused message: bp_suspend_vm in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.780
+!MESSAGE NLS unused message: breakpoint_configuration in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.781
+!MESSAGE NLS unused message: connect in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.781
+!MESSAGE NLS unused message: connector in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.782
+!MESSAGE NLS unused message: connector_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.782
+!MESSAGE NLS unused message: creating_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.783
+!MESSAGE NLS unused message: enable_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.783
+!MESSAGE NLS unused message: enter_new_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.783
+!MESSAGE NLS unused message: exception_occurred_setting_bp_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.784
+!MESSAGE NLS unused message: hit_count_must_be_positive in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.784
+!MESSAGE NLS unused message: no_description_provided in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.785
+!MESSAGE NLS unused message: scripts in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.785
+!MESSAGE NLS unused message: select_javascript_file in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.785
+!MESSAGE NLS unused message: set_bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.786
+!MESSAGE NLS unused message: suspend_target in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.786
+!MESSAGE NLS unused message: suspend_thread in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.787
+!MESSAGE NLS unused message: the_argument_0_is_not_valid in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:57:09.787
+!MESSAGE NLS unused message: osgi.nls.warnings in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.jface 2 0 2011-05-29 12:57:10.445
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-29 12:57:10.445
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-29 12:57:10.445
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.php.core 4 4 2011-05-29 12:58:42.979
+!MESSAGE ams does not exist
+!STACK 1
+org.eclipse.dltk.core.ModelException: ams does not exist
+	at org.eclipse.dltk.internal.core.ModelElement.newNotPresentException(ModelElement.java:258)
+	at org.eclipse.dltk.internal.core.ModelManager.getPerProjectInfoCheckExistence(ModelManager.java:805)
+	at org.eclipse.dltk.internal.core.ScriptProject.getPerProjectInfo(ScriptProject.java:708)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:304)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:275)
+	at org.eclipse.dltk.internal.core.ScriptProject.buildStructure(ScriptProject.java:672)
+	at org.eclipse.dltk.internal.core.Openable.generateInfos(Openable.java:188)
+	at org.eclipse.dltk.internal.core.ModelElement.openWhenClosed(ModelElement.java:184)
+	at org.eclipse.dltk.internal.core.ModelElement.getElementInfo(ModelElement.java:171)
+	at org.eclipse.dltk.internal.core.ModelElement.getChildren(ModelElement.java:356)
+	at org.eclipse.dltk.internal.core.ModelElement.getChildren(ModelElement.java:351)
+	at org.eclipse.dltk.internal.core.ScriptProject.getProjectFragments(ScriptProject.java:1483)
+	at org.eclipse.php.internal.core.PHPCorePlugin$ReindexOperationListener.resourceChanged(PHPCorePlugin.java:162)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:149)
+	at org.eclipse.core.internal.resources.Workspace.broadcastBuildEvent(Workspace.java:311)
+	at org.eclipse.core.internal.resources.Workspace.aboutToBuild(Workspace.java:250)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:341)
+	at org.eclipse.ui.internal.ide.dialogs.CleanDialog.doClean(CleanDialog.java:306)
+	at org.eclipse.ui.internal.ide.dialogs.CleanDialog$1.runInWorkspace(CleanDialog.java:154)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.dltk.core 4 969 2011-05-29 12:58:42.981
+!MESSAGE ams does not exist
+
+!ENTRY org.jboss.tools.jst.web.kb 4 0 2011-05-29 12:58:44.567
+!MESSAGE Plug-in org.jboss.tools.cdi.core was unable to load class org.jboss.tools.cdi.internal.core.validation.CDICoreValidator.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in org.jboss.tools.cdi.core was unable to load class org.jboss.tools.cdi.internal.core.validation.CDICoreValidator.
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:178)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:904)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.jboss.tools.jst.web.kb.internal.validation.ValidationContext.<init>(ValidationContext.java:60)
+	at org.jboss.tools.jst.web.kb.internal.validation.ContextValidationHelper.registerResource(ContextValidationHelper.java:61)
+	at org.eclipse.wst.validation.internal.FilterUtil.addToFileList(FilterUtil.java:290)
+	at org.eclipse.wst.validation.internal.FilterUtil.filterOut(FilterUtil.java:380)
+	at org.eclipse.wst.validation.internal.FilterUtil$1.visit(FilterUtil.java:575)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:112)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:64)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:74)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:110)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:101)
+	at org.eclipse.wst.validation.internal.FilterUtil.loadDeltas(FilterUtil.java:654)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.loadFileDeltas(ValidationOperation.java:545)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.getFileDeltas(ValidationOperation.java:519)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.preValidate(ValidationOperation.java:791)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.run(ValidationOperation.java:653)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:264)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:256)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.build(ValidationBuilder.java:182)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:629)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:172)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:203)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:255)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:258)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:343)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.NoClassDefFoundError: org/jboss/tools/jst/web/kb/internal/validation/KBValidator
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:580)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:550)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:481)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass_LockClassLoader(ClasspathManager.java:469)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:449)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:393)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:580)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:550)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:481)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass_LockClassLoader(ClasspathManager.java:469)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:449)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:393)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.loader.BundleLoader.loadClass(BundleLoader.java:338)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.loadClass(BundleHost.java:232)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.loadClass(AbstractBundle.java:1197)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	... 44 more
+Caused by: java.lang.ClassNotFoundException: org.jboss.tools.jst.web.kb.internal.validation.KBValidator
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:506)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 80 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2011-05-29 12:58:44.569
+!MESSAGE Plug-in org.jboss.tools.cdi.core was unable to load class org.jboss.tools.cdi.internal.core.validation.CDICoreValidator.
+!STACK 0
+java.lang.NoClassDefFoundError: org/jboss/tools/jst/web/kb/internal/validation/KBValidator
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:580)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:550)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:481)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass_LockClassLoader(ClasspathManager.java:469)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:449)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:393)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClassCond(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.defineClass(DefaultClassLoader.java:188)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.defineClass(ClasspathManager.java:580)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findClassImpl(ClasspathManager.java:550)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClassImpl(ClasspathManager.java:481)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass_LockClassLoader(ClasspathManager.java:469)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:449)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:393)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.loader.BundleLoader.loadClass(BundleLoader.java:338)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.loadClass(BundleHost.java:232)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.loadClass(AbstractBundle.java:1197)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:904)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.jboss.tools.jst.web.kb.internal.validation.ValidationContext.<init>(ValidationContext.java:60)
+	at org.jboss.tools.jst.web.kb.internal.validation.ContextValidationHelper.registerResource(ContextValidationHelper.java:61)
+	at org.eclipse.wst.validation.internal.FilterUtil.addToFileList(FilterUtil.java:290)
+	at org.eclipse.wst.validation.internal.FilterUtil.filterOut(FilterUtil.java:380)
+	at org.eclipse.wst.validation.internal.FilterUtil$1.visit(FilterUtil.java:575)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:112)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:64)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:74)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:110)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:101)
+	at org.eclipse.wst.validation.internal.FilterUtil.loadDeltas(FilterUtil.java:654)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.loadFileDeltas(ValidationOperation.java:545)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.getFileDeltas(ValidationOperation.java:519)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.preValidate(ValidationOperation.java:791)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.run(ValidationOperation.java:653)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:264)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:256)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.build(ValidationBuilder.java:182)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:629)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:172)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:203)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:255)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:258)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:343)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.ClassNotFoundException: org.jboss.tools.jst.web.kb.internal.validation.KBValidator
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:506)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 80 more
+
+!ENTRY org.jboss.tools.jst.web.kb 4 0 2011-05-29 12:58:44.576
+!MESSAGE Plug-in "org.jboss.tools.seam.core" was unable to instantiate class "org.jboss.tools.seam.internal.core.validation.SeamCoreValidator".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "org.jboss.tools.seam.core" was unable to instantiate class "org.jboss.tools.seam.internal.core.validation.SeamCoreValidator".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:904)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.jboss.tools.jst.web.kb.internal.validation.ValidationContext.<init>(ValidationContext.java:60)
+	at org.jboss.tools.jst.web.kb.internal.validation.ContextValidationHelper.registerResource(ContextValidationHelper.java:61)
+	at org.eclipse.wst.validation.internal.FilterUtil.addToFileList(FilterUtil.java:290)
+	at org.eclipse.wst.validation.internal.FilterUtil.filterOut(FilterUtil.java:380)
+	at org.eclipse.wst.validation.internal.FilterUtil$1.visit(FilterUtil.java:575)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:112)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:64)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:74)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:110)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:101)
+	at org.eclipse.wst.validation.internal.FilterUtil.loadDeltas(FilterUtil.java:654)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.loadFileDeltas(ValidationOperation.java:545)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.getFileDeltas(ValidationOperation.java:519)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.preValidate(ValidationOperation.java:791)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.run(ValidationOperation.java:653)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:264)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:256)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.build(ValidationBuilder.java:182)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:629)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:172)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:203)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:255)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:258)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:343)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.NoClassDefFoundError: org/jboss/tools/jst/web/kb/validation/IValidatingProjectTree
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 44 more
+Caused by: java.lang.ClassNotFoundException: org.jboss.tools.jst.web.kb.validation.IValidatingProjectTree
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:506)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 50 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2011-05-29 12:58:44.577
+!MESSAGE Plug-in "org.jboss.tools.seam.core" was unable to instantiate class "org.jboss.tools.seam.internal.core.validation.SeamCoreValidator".
+!STACK 0
+java.lang.NoClassDefFoundError: org/jboss/tools/jst/web/kb/validation/IValidatingProjectTree
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:904)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.jboss.tools.jst.web.kb.internal.validation.ValidationContext.<init>(ValidationContext.java:60)
+	at org.jboss.tools.jst.web.kb.internal.validation.ContextValidationHelper.registerResource(ContextValidationHelper.java:61)
+	at org.eclipse.wst.validation.internal.FilterUtil.addToFileList(FilterUtil.java:290)
+	at org.eclipse.wst.validation.internal.FilterUtil.filterOut(FilterUtil.java:380)
+	at org.eclipse.wst.validation.internal.FilterUtil$1.visit(FilterUtil.java:575)
+	at org.eclipse.core.internal.resources.Resource$2.visit(Resource.java:112)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:64)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:74)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:110)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:101)
+	at org.eclipse.wst.validation.internal.FilterUtil.loadDeltas(FilterUtil.java:654)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.loadFileDeltas(ValidationOperation.java:545)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.getFileDeltas(ValidationOperation.java:519)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.preValidate(ValidationOperation.java:791)
+	at org.eclipse.wst.validation.internal.operations.ValidationOperation.run(ValidationOperation.java:653)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:264)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.performFullBuild(ValidationBuilder.java:256)
+	at org.eclipse.wst.validation.internal.operations.ValidationBuilder.build(ValidationBuilder.java:182)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:629)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:172)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:203)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:255)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:258)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:343)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:242)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.lang.ClassNotFoundException: org.jboss.tools.jst.web.kb.validation.IValidatingProjectTree
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:506)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 50 more
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.197
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.198
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.229
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.539
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.605
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 12:58:47.741
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2011-05-29 12:59:26.871 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_25
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.863
+!MESSAGE NLS unused message: add_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.864
+!MESSAGE NLS unused message: bp_conditional in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.864
+!MESSAGE NLS unused message: bp_conditonal in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.865
+!MESSAGE NLS unused message: bp_entry_and_exit in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.865
+!MESSAGE NLS unused message: bp_entry_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.866
+!MESSAGE NLS unused message: bp_exit_only in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.866
+!MESSAGE NLS unused message: bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.866
+!MESSAGE NLS unused message: bp_line_number in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.867
+!MESSAGE NLS unused message: bp_suspend_vm in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.867
+!MESSAGE NLS unused message: breakpoint_configuration in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.868
+!MESSAGE NLS unused message: connect in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.868
+!MESSAGE NLS unused message: connector in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.869
+!MESSAGE NLS unused message: connector_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.869
+!MESSAGE NLS unused message: creating_script_load_bp in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.869
+!MESSAGE NLS unused message: enable_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.870
+!MESSAGE NLS unused message: enter_new_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.870
+!MESSAGE NLS unused message: exception_occurred_setting_bp_properties in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.871
+!MESSAGE NLS unused message: hit_count_must_be_positive in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.871
+!MESSAGE NLS unused message: no_description_provided in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.872
+!MESSAGE NLS unused message: scripts in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.872
+!MESSAGE NLS unused message: select_javascript_file in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.873
+!MESSAGE NLS unused message: set_bp_hit_count in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.873
+!MESSAGE NLS unused message: suspend_target in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.874
+!MESSAGE NLS unused message: suspend_thread in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.874
+!MESSAGE NLS unused message: the_argument_0_is_not_valid in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2011-05-29 12:59:42.874
+!MESSAGE NLS unused message: osgi.nls.warnings in: org.eclipse.wst.jsdt.debug.internal.ui.messages
+
+!ENTRY org.eclipse.jface 2 0 2011-05-29 12:59:43.627
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-29 12:59:43.627
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2011-05-29 12:59:43.627
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.ui.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 13:00:02.656
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 4 2 2011-05-29 13:00:12.120
+!MESSAGE An internal error occurred during: "Seam Project Property Validator".
+!STACK 0
+java.lang.NoSuchMethodError: org.jboss.tools.jst.web.kb.validation.IValidationErrorManager.init(Lorg/eclipse/core/resources/IProject;Lorg/jboss/tools/jst/web/kb/internal/validation/ContextValidationHelper;Lorg/jboss/tools/jst/web/kb/validation/IProjectValidationContext;Lorg/eclipse/wst/validation/internal/provisional/core/IValidator;Lorg/eclipse/wst/validation/internal/provisional/core/IReporter;)V
+	at org.jboss.tools.seam.internal.core.validation.SeamProjectPropertyValidator.validateInJob(SeamProjectPropertyValidator.java:122)
+	at org.eclipse.wst.validation.internal.operations.ValidatorJob.run(ValidatorJob.java:78)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

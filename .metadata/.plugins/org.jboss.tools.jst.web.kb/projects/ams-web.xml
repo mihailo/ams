@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kb-project>
  <depends-on-projects>
-  <project name="ams-security-authz"/>
   <project name="ams-entities"/>
-  <project name="ams-ejbs"/>
   <project name="ams-utils"/>
+  <project name="ams-ejbs"/>
+  <project name="ams-security-authz"/>
  </depends-on-projects>
  <used-by-projects/>
  <paths>
@@ -51,7 +51,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/remove" project="ams-web"/>
@@ -247,7 +246,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/remove" project="ams-web"/>
@@ -637,7 +635,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/message" project="ams-web"/>
@@ -857,7 +854,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/message" project="ams-web"/>
@@ -1379,7 +1375,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/update" project="ams-web"/>
@@ -1485,7 +1480,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/update" project="ams-web"/>
@@ -1701,7 +1695,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/transform" project="ams-web"/>
@@ -1834,7 +1827,6 @@
         <object class="model-object" path="." project="ams-web"/>
        </value-info>
       </entry>
-      <entry name="version"/>
      </attributes>
      <component class="tld">
       <id class="model-object" path="/transform" project="ams-web"/>
@@ -2620,16 +2612,16 @@
        <id class="model-object" path="/selectOneListbox/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneListbox/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneListbox/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectOneListbox/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectOneListbox/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/requiredMessage" project="ams-web"/>
@@ -2738,16 +2730,16 @@
        <id class="model-object" path="/inputTextarea/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputTextarea/onkeydown" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
-       <id class="model-object" path="/inputTextarea/onkeypress" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/inputTextarea/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputTextarea/onfocus" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputTextarea/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputTextarea/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputTextarea/requiredMessage" project="ams-web"/>
@@ -3184,16 +3176,16 @@
        <id class="model-object" path="/selectManyMenu/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyMenu/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyMenu/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectManyMenu/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectManyMenu/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/requiredMessage" project="ams-web"/>
@@ -3879,16 +3871,16 @@
        <id class="model-object" path="/selectOneMenu/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneMenu/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneMenu/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectOneMenu/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectOneMenu/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/requiredMessage" project="ams-web"/>
@@ -4059,16 +4051,16 @@
        <id class="model-object" path="/inputText/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputText/label" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/inputText/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputText/onkeydown" project="ams-web"/>
+       <id class="model-object" path="/inputText/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputText/onfocus" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputText/onkeydown" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputText/requiredMessage" project="ams-web"/>
@@ -4224,16 +4216,16 @@
        <id class="model-object" path="/selectManyListbox/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyListbox/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectManyListbox/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyListbox/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectManyListbox/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyListbox/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectManyListbox/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object"
@@ -5250,16 +5242,16 @@
        <id class="model-object" path="/selectOneListbox/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneListbox/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneListbox/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectOneListbox/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectOneListbox/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneListbox/requiredMessage" project="ams-web"/>
@@ -5368,16 +5360,16 @@
        <id class="model-object" path="/inputTextarea/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputTextarea/onkeydown" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
-       <id class="model-object" path="/inputTextarea/onkeypress" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/inputTextarea/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputTextarea/onfocus" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputTextarea/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputTextarea/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputTextarea/requiredMessage" project="ams-web"/>
@@ -5814,16 +5806,16 @@
        <id class="model-object" path="/selectManyMenu/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyMenu/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyMenu/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectManyMenu/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectManyMenu/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyMenu/requiredMessage" project="ams-web"/>
@@ -6509,16 +6501,16 @@
        <id class="model-object" path="/selectOneMenu/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneMenu/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectOneMenu/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectOneMenu/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectOneMenu/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectOneMenu/requiredMessage" project="ams-web"/>
@@ -6689,16 +6681,16 @@
        <id class="model-object" path="/inputText/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputText/label" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/inputText/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/inputText/onkeydown" project="ams-web"/>
+       <id class="model-object" path="/inputText/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputText/onfocus" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/inputText/onkeydown" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/inputText/requiredMessage" project="ams-web"/>
@@ -6854,16 +6846,16 @@
        <id class="model-object" path="/selectManyListbox/onkeyup" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyListbox/onfocus" project="ams-web"/>
-      </attribute>
-      <attribute class="tld">
        <id class="model-object" path="/selectManyListbox/label" project="ams-web"/>
       </attribute>
       <attribute class="tld">
-       <id class="model-object" path="/selectManyListbox/onkeypress" project="ams-web"/>
+       <id class="model-object" path="/selectManyListbox/onfocus" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object" path="/selectManyListbox/onkeydown" project="ams-web"/>
+      </attribute>
+      <attribute class="tld">
+       <id class="model-object" path="/selectManyListbox/onkeypress" project="ams-web"/>
       </attribute>
       <attribute class="tld">
        <id class="model-object"
@@ -7439,7 +7431,6 @@
      <component class="facelet">
       <id class="model-object" path="/regexValidator" project="ams-web"/>
       <attributes>
-       <entry name="component-type"/>
        <entry name="description">
         <value-info attr="description" class="xml">
          <object class="model-object" path="." project="ams-web"/>
@@ -7450,8 +7441,6 @@
          <object class="model-object" path="." project="ams-web"/>
         </value-info>
        </entry>
-       <entry name="bodycontent"/>
-       <entry name="component-class"/>
       </attributes>
      </component>
      <component class="facelet">
@@ -7472,14 +7461,11 @@
          <object class="model-object" path="." project="ams-web"/>
         </value-info>
        </entry>
-       <entry name="bodycontent"/>
-       <entry name="component-class"/>
       </attributes>
      </component>
      <component class="facelet">
       <id class="model-object" path="/creditcardValidator" project="ams-web"/>
       <attributes>
-       <entry name="component-type"/>
        <entry name="description">
         <value-info attr="description" class="xml">
          <object class="model-object" path="." project="ams-web"/>
@@ -7490,8 +7476,6 @@
          <object class="model-object" path="." project="ams-web"/>
         </value-info>
        </entry>
-       <entry name="bodycontent"/>
-       <entry name="component-class"/>
       </attributes>
      </component>
     </library>
@@ -7562,9 +7546,6 @@
     <library class="faces-config">
      <id class="model-object"
       path="FileSystems/WEB-INF/faces-config.xml" project="ams-web"/>
-     <attributes>
-      <entry name="uri"/>
-     </attributes>
     </library>
    </libraries>
   </path>
