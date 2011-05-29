@@ -1,4 +1,0 @@
-#java specific
-*.class
-build/*
-lib/*

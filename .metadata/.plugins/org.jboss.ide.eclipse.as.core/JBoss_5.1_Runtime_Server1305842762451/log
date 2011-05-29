@@ -370,3 +370,12 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2011-05-29 10:49:02.376
 !MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2011-05-29 12:38:25.724
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2011-05-29 12:38:54.502
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2011-05-29 12:44:00.392
+!MESSAGE Server processes have been terminated.
