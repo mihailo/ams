@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="121" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="183" y="112">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.jboss.tools.jst.jsp.toolbars.sampleToolbar" itemType="typeToolBarContribution" x="222" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.jboss.tools.jst.web.ui.server.actionSet" itemType="typeToolBarContribution" x="153" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.jpt.ui.internal.editors.PersistenceEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1305836085852" focus="true" label="Workspace - JBoss AS">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="jboss.xml" partName="jboss.xml" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/META-INF/jboss.xml" title="jboss.xml" tooltip="ams-ejbs/ejbModule/META-INF/jboss.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/META-INF/jboss.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmailDispatcherBean.java" partName="EmailDispatcherBean.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/EmailDispatcherBean.java" title="EmailDispatcherBean.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/EmailDispatcherBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/EmailDispatcherBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="33" selectionOffset="453" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Global.java" partName="Global.java" path="D:/Users/mihailo/workspceAMS/ams-utils/src/rs/ac/bg/rcub/ams/util/Global.java" title="Global.java" tooltip="ams-utils/src/rs/ac/bg/rcub/ams/util/Global.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/Global.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="496"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Alert.java" partName="Alert.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Alert.java" title="Alert.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Alert.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Alert.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="624" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jpt.ui.internal.editors.PersistenceEditor" name="persistence.xml" partName="persistence.xml" path="D:/Users/mihailo/workspceAMS/ams-entities/ejbModule/META-INF/persistence.xml" title="persistence.xml" tooltip="ams-entities/ejbModule/META-INF/persistence.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/ejbModule/META-INF/persistence.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CategoryBean.java" partName="CategoryBean.java" path="D:/Users/mihailo/workspceAMS/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/CategoryBean.java" title="CategoryBean.java" tooltip="ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/CategoryBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/CategoryBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GtalkDispatcherBean.java" partName="GtalkDispatcherBean.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/GtalkDispatcherBean.java" title="GtalkDispatcherBean.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/GtalkDispatcherBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/dispatcher/GtalkDispatcherBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="794" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AMSManagement.java" partName="AMSManagement.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagement.java" title="AMSManagement.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagement.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagement.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AMSManagementBean.java" partName="AMSManagementBean.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagementBean.java" title="AMSManagementBean.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagementBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagementBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1057" selectionTopPixel="51"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SubsBean.java" partName="SubsBean.java" path="D:/Users/mihailo/workspceAMS/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/SubsBean.java" title="SubsBean.java" tooltip="ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/SubsBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/SubsBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="794" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListAlertsBean.java" partName="ListAlertsBean.java" path="D:/Users/mihailo/workspceAMS/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/ListAlertsBean.java" title="ListAlertsBean.java" tooltip="ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/ListAlertsBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-web/JavaSource/rs/ac/bg/rcub/ams/web/beans/ListAlertsBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="449" selectionTopPixel="153"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Category.java" partName="Category.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Category.java" title="Category.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Category.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Category.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="81" selectionTopPixel="0"/>
+</editor>
+<editor id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" name="hgsm.properties" partName="hgsm.properties" path="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" title="hgsm.properties" tooltip="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GliteCertRolesLoginModule.java" partName="GliteCertRolesLoginModule.java" path="D:/Users/mihailo/workspceAMS/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" title="GliteCertRolesLoginModule.java" tooltip="ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-security-authz/src/rs/ac/bg/rcub/auth/jboss/security/GliteCertRolesLoginModule.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="667" selectionTopPixel="2805"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Target.java" partName="Target.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java" title="Target.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="272" selectionTopPixel="871"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Message.java" partName="Message.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Message.java" title="Message.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Message.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Message.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="371" selectionTopPixel="1020"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="addCategory.jsp" partName="addCategory.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/admin/addCategory.jsp" title="addCategory.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/admin/addCategory.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/admin/addCategory.jsp"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="listAlerts.jsp" partName="listAlerts.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/listAlerts.jsp" title="listAlerts.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/listAlerts.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/listAlerts.jsp"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="ams-jboss-beans.xml" partName="ams-jboss-beans.xml" path="D:/Users/mihailo/workspceAMS/ams/EarContent/META-INF/ams-jboss-beans.xml" title="ams-jboss-beans.xml" tooltip="ams/EarContent/META-INF/ams-jboss-beans.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams/EarContent/META-INF/ams-jboss-beans.xml"/>
+</editor>
+<editor activePart="true" focus="true" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="web.xml" partName="web.xml" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="MANIFEST.MF" partName="MANIFEST.MF" path="D:/Users/mihailo/workspceAMS/ams-entities/ejbModule/META-INF/MANIFEST.MF" title="MANIFEST.MF" tooltip="ams-entities/ejbModule/META-INF/MANIFEST.MF" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/ejbModule/META-INF/MANIFEST.MF"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserInfo.java" partName="UserInfo.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/UserInfo.java" title="UserInfo.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/UserInfo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/UserInfo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Subscription.java" partName="Subscription.java" path="D:/Users/mihailo/workspceAMS/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Subscription.java" title="Subscription.java" tooltip="ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Subscription.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Subscription.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConfigUpdater.java" partName="ConfigUpdater.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java" title="ConfigUpdater.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConfigUpdaterBean.java" partName="ConfigUpdaterBean.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java" title="ConfigUpdaterBean.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="548"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Updater.java" partName="Updater.java" path="D:/Users/mihailo/workspceAMS/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java" title="Updater.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" name="hgsm.properties" partName="hgsm.properties" path="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" title="hgsm.properties" tooltip="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XMLReader.java" partName="XMLReader.java" path="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java" title="XMLReader.java" tooltip="ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HGSMUpdater.java" partName="HGSMUpdater.java" path="D:/Users/mihailo/workspceAMS/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java" title="HGSMUpdater.java" tooltip="ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="faces-config.xml" partName="faces-config.xml" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/faces-config.xml" title="faces-config.xml" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/faces-config.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/WEB-INF/faces-config.xml"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="jboss-web.xml" partName="jboss-web.xml" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/WEB-INF/jboss-web.xml" title="jboss-web.xml" tooltip="ams-web/WebContent/WEB-INF/jboss-web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-web/WebContent/WEB-INF/jboss-web.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageStatus.java" partName="MessageStatus.java" path="D:/Users/mihailo/workspceAMS/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java" title="MessageStatus.java" tooltip="ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageType.java" partName="MessageType.java" path="D:/Users/mihailo/workspceAMS/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java" title="MessageType.java" tooltip="ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="MANIFEST.MF" partName="MANIFEST.MF" path="D:/Users/mihailo/workspceAMS/ams-utils/src/META-INF/MANIFEST.MF" title="MANIFEST.MF" tooltip="ams-utils/src/META-INF/MANIFEST.MF" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ams-utils/src/META-INF/MANIFEST.MF"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="main.jsp" partName="main.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/main.jsp" title="main.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/main.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/main.jsp"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="error.jsp" partName="error.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/error.jsp" title="error.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/error.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/error.jsp"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="messages.jsp" partName="messages.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/messages.jsp" title="messages.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/messages.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/messages.jsp"/>
+</editor>
+<editor id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="subscribe.jsp" partName="subscribe.jsp" path="D:/Users/mihailo/workspceAMS/ams-web/WebContent/subscribe.jsp" title="subscribe.jsp" tooltip="D:/Users/mihailo/workspceAMS/ams-web/WebContent/subscribe.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" path="/ams-web/WebContent/subscribe.jsp"/>
+</editor>
+</editors>
+<views>
+<view id="org.jboss.ide.eclipse.archives.ui.ProjectArchivesView" partName="Project archives"/>
+<view id="org.eclipse.gef.ui.palette_view" partName="Palette">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer"/>
+<view id="org.jboss.tools.jst.web.ui.navigator.WebProjectsView" partName="Web Projects"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="119" org.eclipse.ui.ide.pathField="380" org.eclipse.ui.ide.resourceField="229" org.eclipse.ui.ide.severityAndDescriptionField="532"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1305836085852">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="jdt.external.source.project.filter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.maven.ide.eclipse.MavenModuleFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.jboss.tools.seam.ui.views.SeamComponentsNavigator" partName="Seam Components"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
+</views>
+<perspectives activePart="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" activePerspective="org.jboss.ide.eclipse.as.ui.ASPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.jboss.tools.common.model.ui.actionSet"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.archives.ui.actions.Archives"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.jboss.tools.jst.web.ui.server.actionSet"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actions.maven"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.help.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="org.hibernate.eclipse.launch.actionset"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.jboss.tools.flow.jpdl4.details"/>
+<show_view_action id="org.jboss.tools.common.model.ui.navigator.NavigatorViewPart"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.jboss.tools.flow.jpdl4.file"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<perspective_action id="org.jboss.tools.jst.web.ui.WebDevelopmentPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6132b73b" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.21330138" ratioLeft="356" ratioRight="1313" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.6308204" ratioLeft="569" ratioRight="333" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info part="org.jboss.tools.flow.jpdl4.details" ratio="0.7493333" ratioLeft="562" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss"/>
+<info folder="true" part="right" ratio="0.49896908" ratioLeft="242" ratioRight="243" relationship="4" relative="org.jboss.tools.flow.jpdl4.details">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.jboss.ide.eclipse.as.ui.perspective.ASPerspective" id="org.jboss.ide.eclipse.as.ui.ASPerspective" label="JBoss AS"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.jboss.tools.common.model.ui.actionSet"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.archives.ui.actions.Archives"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.jboss.tools.jst.web.ui.server.actionSet"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actions.maven"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.help.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.jboss.tools.seam.ui.wizards.SeamProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.ejb3.wizards.ui.NewSessionBeanWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.ejb3.wizards.ui.NewMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.jboss.ide.eclipse.as.ui.MBeanComponents"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.jboss.ide.eclipse.jbosscache.perspective2"/>
+<perspective_action id="org.drools.ide.DroolsPerspective"/>
+<perspective_action id="org.hibernate.eclipse.console.HibernateConsolePerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.jboss.ide.eclipse.archives.ui.ProjectArchivesView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="418" ratioRight="1254" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.650776" ratioLeft="587" ratioRight="315" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.jboss.ide.eclipse.archives.ui.ProjectArchivesView" label="Project archives"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@57746e0" ratio="0.7496013" ratioLeft="940" ratioRight="314" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="leftBottom" ratio="0.6" ratioLeft="543" ratioRight="362" relationship="4" relative="left">
+<folder appearance="2" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.jboss.tools.jst.web.ui.WebDevelopmentPerspectiveFactory" id="org.jboss.tools.jst.web.ui.WebDevelopmentPerspective" label="Web Development"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.jboss.tools.common.model.ui.actionSet"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.archives.ui.actions.Archives"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.jboss.tools.jst.web.ui.server.actionSet"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.ui.navigation"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.actions.maven"/>
+<alwaysOnActionSet id="org.maven.ide.eclipse.help.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.jboss.tools.seam.ui.views.SeamComponentsNavigator"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.gef.ui.palette_view"/>
+<show_view_action id="org.jboss.tools.jst.web.ui.navigator.WebProjectsView"/>
+<show_view_action id="org.jboss.tools.jst.web.ui.action.BrowserView"/>
+<show_view_action id="org.eclipse.debug.ui.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.jboss.tools.jsf.ui.wizard.project.NewProjectWizard"/>
+<new_wizard_action id="org.jboss.tools.struts.ui.wizard.newfile.NewStrutsConfigFileWizard"/>
+<new_wizard_action id="org.jboss.tools.jsf.ui.wizard.newfile.NewFacesConfigFileWizard"/>
+<new_wizard_action id="org.jboss.tools.jst.web.tiles.ui.wizard.newfile.NewTilesFileWizard"/>
+<new_wizard_action id="org.jboss.tools.struts.ui.wizard.newfile.NewTilesFileWizard"/>
+<new_wizard_action id="org.jboss.tools.struts.ui.wizard.newfile.NewValidationFileWizard"/>
+<new_wizard_action id="org.jboss.tools.jst.web.ui.wizard.newfile.NewTLDFileWizard"/>
+<new_wizard_action id="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard"/>
+<new_wizard_action id="org.jboss.tools.jst.web.ui.wizards.newfile.NewXHTMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.css.ui.internal.wizard.NewCSSWizard"/>
+<new_wizard_action id="org.eclipse.wst.jsdt.ui.NewJSWizard"/>
+<new_wizard_action id="org.jboss.tools.common.model.ui.wizard.newfile.NewPropertiesFileWizard"/>
+<new_wizard_action id="org.jboss.tools.struts.ui.wizard.project.NewStrutsProjectWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.jboss.tools.jst.web.ui.navigator.WebProjectsView"/>
+<view id="org.jboss.tools.seam.ui.views.SeamComponentsNavigator"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.gef.ui.palette_view"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="leftTop">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.jboss.tools.jst.web.ui.navigator.WebProjectsView" label="Web Projects"/>
+<page content="org.jboss.tools.seam.ui.views.SeamComponentsNavigator" label="Seam Components"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="leftTop">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19976076" ratioLeft="334" ratioRight="1338" relationship="2" relative="leftTop"/>
+<info folder="true" part="bottom" ratio="0.7790055" ratioLeft="705" ratioRight="200" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.79970104" ratioLeft="1070" ratioRight="268" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.gef.ui.palette_view" appearance="2" expanded="2">
+<page content="org.eclipse.gef.ui.palette_view" label="Palette"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="rightBottom" ratio="0.6397163" ratioLeft="451" ratioRight="254" relationship="4" relative="right">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="leftBottom" ratio="0.63977903" ratioLeft="579" ratioRight="326" relationship="4" relative="leftTop">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jpt.ui.internal.editors.PersistenceEditor" path="/ams-entities/ejbModule/META-INF/persistence.xml"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/listAlerts.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/ams/EarContent/META-INF/ams-jboss-beans.xml"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/ams-entities/ejbModule/META-INF/MANIFEST.MF"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/UserInfo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Target.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Subscription.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Message.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Category.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-entities/src/rs/ac/bg/rcub/ams/ejb3/entity/Alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagement.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagementBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/Global.java"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/ams/EarContent/META-INF/ams-jboss-beans.xml"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="" path="/ams-web/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" path="/ams-web/WebContent/WEB-INF/faces-config.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/ams-web/WebContent/WEB-INF/jboss-web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/Global.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/ams-utils/src/META-INF/MANIFEST.MF"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagement.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/service/AMSManagementBean.java"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/main.jsp"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/error.jsp"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/messages.jsp"/>
+<editor factoryID="org.jboss.tools.common.core.resources.XModelObjectEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" path="/ams-web/WebContent/subscribe.jsp"/>
+</editors>
+<item historyLabel="listAlerts.jsp" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ams-jboss-beans.xml" index="2"/>
+<item historyLabel="web.xml" index="3"/>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="MANIFEST.MF" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="web.xml" index="5"/>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="UserInfo.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Target.java" index="7">
+<position info="not_deleted" x="272" y="0"/>
+</item>
+<item historyLabel="Subscription.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Message.java" index="9">
+<position info="not_deleted" x="371" y="0"/>
+</item>
+<item historyLabel="Category.java" index="10">
+<position info="not_deleted" x="81" y="17"/>
+</item>
+<item historyLabel="Alert.java" index="11">
+<position info="not_deleted" x="624" y="6"/>
+</item>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="AMSManagement.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AMSManagementBean.java" index="13">
+<position info="not_deleted" x="515" y="0"/>
+</item>
+<item historyLabel="ConfigUpdater.java" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ConfigUpdaterBean.java" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Updater.java" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Global.java" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="hgsm.properties" index="18"/>
+<item historyLabel="XMLReader.java" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HGSMUpdater.java" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ams-jboss-beans.xml" index="21"/>
+<item historyLabel="AMSManagementBean.java" index="13">
+<position info="not_deleted" x="515" y="0"/>
+</item>
+<item historyLabel="AMSManagement.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Alert.java" index="11">
+<position info="not_deleted" x="624" y="6"/>
+</item>
+<item historyLabel="Category.java" index="10">
+<position info="not_deleted" x="81" y="17"/>
+</item>
+<item historyLabel="Message.java" index="9">
+<position info="not_deleted" x="371" y="0"/>
+</item>
+<item historyLabel="Category.java" index="10">
+<position info="not_deleted" x="81" y="17"/>
+</item>
+<item historyLabel="persistence.xml" index="0"/>
+<item historyLabel="web.xml" index="22">
+<position info="not_deleted" x="2348" y="15"/>
+</item>
+<item historyLabel="web.xml" index="23">
+<position info="not_deleted" x="2378" y="8"/>
+</item>
+<item historyLabel="faces-config.xml" index="24"/>
+<item historyLabel="jboss-web.xml" index="25"/>
+<item historyLabel="Global.java" index="26">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MessageStatus.java" index="27">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MessageType.java" index="28">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MANIFEST.MF" index="29">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AMSManagement.java" index="30">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AMSManagementBean.java" index="31">
+<position info="not_deleted" x="1057" y="0"/>
+</item>
+<item historyLabel="web.xml" index="22"/>
+<item historyLabel="main.jsp" index="32">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="error.jsp" index="33">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="messages.jsp" index="34">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="subscribe.jsp" index="35">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="subscribe.jsp" index="35">
+<position info="not_deleted" x="3425" y="0"/>
+</item>
+<item historyLabel="main.jsp" index="32">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="web.xml" index="22"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+<trimItem IMemento.internal.id="bottom"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@57746e0"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="subscribe.jsp" tooltip="ams-web/WebContent/subscribe.jsp">
+<persistable path="/ams-web/WebContent/subscribe.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="messages.jsp" tooltip="ams-web/WebContent/messages.jsp">
+<persistable path="/ams-web/WebContent/messages.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="error.jsp" tooltip="ams-web/WebContent/error.jsp">
+<persistable path="/ams-web/WebContent/error.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.jst.jsp.jspeditor.JSPTextEditor" name="main.jsp" tooltip="ams-web/WebContent/main.jsp">
+<persistable path="/ams-web/WebContent/main.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="MANIFEST.MF" tooltip="ams-utils/src/META-INF/MANIFEST.MF">
+<persistable path="/ams-utils/src/META-INF/MANIFEST.MF"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageType.java" tooltip="ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java">
+<persistable path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageType.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MessageStatus.java" tooltip="ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java">
+<persistable path="/ams-utils/src/rs/ac/bg/rcub/ams/util/enums/MessageStatus.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="jboss-web.xml" tooltip="ams-web/WebContent/WEB-INF/jboss-web.xml">
+<persistable path="/ams-web/WebContent/WEB-INF/jboss-web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.common.model.ui.editor.EditorPartWrapper" name="faces-config.xml" tooltip="ams-web/WebContent/WEB-INF/faces-config.xml">
+<persistable path="/ams-web/WebContent/WEB-INF/faces-config.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HGSMUpdater.java" tooltip="ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java">
+<persistable path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/HGSMUpdater.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XMLReader.java" tooltip="ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java">
+<persistable path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/XMLReader.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.jboss.tools.common.propertieseditor.PropertiesCompoundEditor" name="hgsm.properties" tooltip="ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties">
+<persistable path="/ams-hgsm/src/rs/ac/bg/rcub/ams/config/hgsm/hgsm.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Updater.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java">
+<persistable path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/Updater.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConfigUpdaterBean.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java">
+<persistable path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdaterBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConfigUpdater.java" tooltip="ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java">
+<persistable path="/ams-ejbs/ejbModule/rs/ac/bg/rcub/ams/ejb3/stateless/config/ConfigUpdater.java"/>
+</file>
+</mruList>
+</workbench>

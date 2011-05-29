@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions name="AlertService" targetNamespace="http://stateless.ejb3.ams.rcub.bg.ac.rs/" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://stateless.ejb3.ams.rcub.bg.ac.rs/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+  <types>
+    <xs:schema targetNamespace="http://stateless.ejb3.ams.rcub.bg.ac.rs/" version="1.0" xmlns:tns="http://stateless.ejb3.ams.rcub.bg.ac.rs/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <xs:element name="sendAlert" type="tns:sendAlert"/>
+   <xs:element name="sendAlertResponse" type="tns:sendAlertResponse"/>
+   <xs:complexType name="sendAlert">
+    <xs:sequence>
+     <xs:element minOccurs="0" name="sender" type="xs:string"/>
+     <xs:element minOccurs="0" name="target" type="xs:string"/>
+     <xs:element minOccurs="0" name="category" type="xs:string"/>
+     <xs:element minOccurs="0" name="subject" type="xs:string"/>
+     <xs:element minOccurs="0" name="body" type="xs:string"/>
+     <xs:element name="isError" type="xs:boolean"/>
+    </xs:sequence>
+   </xs:complexType>
+   <xs:complexType name="sendAlertResponse">
+    <xs:sequence>
+     <xs:element name="return" type="xs:boolean"/>
+    </xs:sequence>
+   </xs:complexType>
+  </xs:schema>
+  </types>
+  <message name="AlertService_sendAlertResponse">
+    <part name="sendAlertResponse" element="tns:sendAlertResponse">
+    </part>
+  </message>
+  <message name="AlertService_sendAlert">
+    <part name="sendAlert" element="tns:sendAlert">
+    </part>
+  </message>
+  <portType name="AlertService">
+    <operation name="sendAlert" parameterOrder="sendAlert">
+      <input message="tns:AlertService_sendAlert">
+    </input>
+      <output message="tns:AlertService_sendAlertResponse">
+    </output>
+    </operation>
+  </portType>
+  <binding name="AlertServiceBinding" type="tns:AlertService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="sendAlert">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body use="literal"/>
+      </input>
+      <output>
+        <soap:body use="literal"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="AlertService">
+    <port name="AlertServiceBeanPort" binding="tns:AlertServiceBinding">
+      <soap:address location="http://localhost:8080/ams"/>
+    </port>
+  </service>
+</definitions>

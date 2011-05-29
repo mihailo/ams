@@ -1,0 +1,9 @@
+<datasources> 
+   <local-tx-datasource> 
+      <jndi-name>MySqlDS-AMS</jndi-name> 
+      <connection-url>jdbc:mysql://localhost:3306/ams</connection-url> 
+      <driver-class>com.mysql.jdbc.Driver</driver-class> 
+      <user-name>root</user-name> 
+      <password>test</password> 
+   </local-tx-datasource>
+</datasources>
